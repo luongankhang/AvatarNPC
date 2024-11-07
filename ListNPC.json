@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "NPC One",
+        "status": "true"
+    },
+    {
+        "id": 2,
+        "name": "NPC Two",
+        "status": "false"
+    },
+    {
+        "id": 3,
+        "name": "NPC Three",
+        "status": "true"
+    }
+]
